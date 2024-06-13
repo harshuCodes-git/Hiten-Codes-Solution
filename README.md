@@ -17,6 +17,14 @@ Welcome to the Hitencodes Solutions Repository! This repository contains the sol
 
 This repository is dedicated to solving the questions from the Hitencodes Excel sheet. Each question is addressed with a detailed solution, including code, explanations, and any necessary dependencies. The goal is to provide clear and concise answers to help users understand and learn from the solutions provided. Solutions will be provided in both C++ and Python, where applicable.
 
+### Example Table
+Here is an example table showing the status of different solutions:
+| Topic | Question | Link | Solution |
+|----------|----------|----------|----------|
+| Array| Contains Duplicate| [Link](https://leetcode.com/problems/contains-duplicate/)|[01](https://github.com/harshuCodes-git/Hiten-Codes-Solution/blob/main/Array/01_Contains%20Duplicate.cpp)|
+| | Valid Anagram| [Link](https://leetcode.com/problems/valid-anagram/)|[02](https://github.com/harshuCodes-git/Hiten-Codes-Solution/blob/main/Array/02_Valid%20Anagram.cpp)|
+|||||
+
 ## Repository Structure
 
 The repository is organized as follows:
@@ -103,13 +111,7 @@ You can access the Hitencodes questions Google Sheet through the following link:
 [Hitencodes Questions Google Sheet](https://docs.google.com/spreadsheets/d/1xCWs91-05XIlOSqCubqc8OKebLWDnpSl9cMkLICXuT8/edit?usp=sharing)
 
 
-### Example Table
-Here is an example table showing the status of different solutions:
-| Topic | Question | Link | Solution |
-|----------|----------|----------|----------|
-| Array| Contains Duplicate| [Link](https://leetcode.com/problems/contains-duplicate/)|[01](https://github.com/harshuCodes-git/Hiten-Codes-Solution/blob/main/Array/01_Contains%20Duplicate.cpp)|
-| | Valid Anagram| [Link](https://leetcode.com/problems/valid-anagram/)|[02]((https://github.com/harshuCodes-git/Hiten-Codes-Solution/blob/main/Array/02_Valid%20Anagram.cpp))|
-|||||
+
 
 
 Question Number	Python Solution	C++ Solution	Status
