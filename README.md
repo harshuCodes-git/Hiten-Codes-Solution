@@ -107,8 +107,8 @@ You can access the Hitencodes questions Google Sheet through the following link:
 Here is an example table showing the status of different solutions:
 | Topic | Question | Link | Solution |
 |----------|----------|----------|----------|
-| Array| Contains Duplicate| [Link](https://leetcode.com/problems/contains-duplicate/)||
-| | Valid Anagram| [Link](https://leetcode.com/problems/valid-anagram/)||
+| Array| Contains Duplicate| [Link](https://leetcode.com/problems/contains-duplicate/)|[01](https://github.com/harshuCodes-git/Hiten-Codes-Solution/blob/main/Array/01_Contains%20Duplicate.cpp)|
+| | Valid Anagram| [Link](https://leetcode.com/problems/valid-anagram/)|[02]()|
 
 
 Question Number	Python Solution	C++ Solution	Status
