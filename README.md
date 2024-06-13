@@ -108,7 +108,8 @@ Here is an example table showing the status of different solutions:
 | Topic | Question | Link | Solution |
 |----------|----------|----------|----------|
 | Array| Contains Duplicate| [Link](https://leetcode.com/problems/contains-duplicate/)|[01](https://github.com/harshuCodes-git/Hiten-Codes-Solution/blob/main/Array/01_Contains%20Duplicate.cpp)|
-| | Valid Anagram| [Link](https://leetcode.com/problems/valid-anagram/)|[02]()|
+| | Valid Anagram| [Link](https://leetcode.com/problems/valid-anagram/)|[02]((https://github.com/harshuCodes-git/Hiten-Codes-Solution/blob/main/Array/02_Valid%20Anagram.cpp))|
+|||||
 
 
 Question Number	Python Solution	C++ Solution	Status
