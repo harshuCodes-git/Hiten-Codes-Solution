@@ -105,10 +105,10 @@ You can access the Hitencodes questions Google Sheet through the following link:
 
 ### Example Table
 Here is an example table showing the status of different solutions:
-| Header 1 | Header 2 | Header 3 |
-|----------|----------|----------|
-| Content 1| Content 2| Content 3|
-| Content 4| Content 5| Content 6|
+| Topic | Question | Link | Solution |
+|----------|----------|----------|----------|
+| Array| Contains Duplicate| [Link](https://leetcode.com/problems/contains-duplicate/)||
+| | Valid Anagram| [Link](https://leetcode.com/problems/valid-anagram/)||
 
 
 Question Number	Python Solution	C++ Solution	Status
