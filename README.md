@@ -20,7 +20,7 @@ This repository is dedicated to solving the questions from the Hitencodes Excel 
 ### Example Table
 Here is an example table showing the status of different solutions:
 | Topic | Question | Link | Solution |C++|Java|
-|----------|----------|----------|----------|
+|----------|----------|----------|----------|----------|----------|
 | Array| Contains Duplicate| [Link](https://leetcode.com/problems/contains-duplicate/)|[01](https://github.com/harshuCodes-git/Hiten-Codes-Solution/blob/main/Array_01/01_Contains%20Duplicate.cpp)|
 | | Valid Anagram| [Link](https://leetcode.com/problems/valid-anagram/)|[02](https://github.com/harshuCodes-git/Hiten-Codes-Solution/blob/main/01_Array/02_Valid%20Anagram.cpp)|
 |||[Link]()|[03](https://github.com/harshuCodes-git/Hiten-Codes-Solution/blob/main/01_Array/03_TwoSum.java)|[C++](https://github.com/harshuCodes-git/Hiten-Codes-Solution/blob/main/01_Array/03_Two%20Sum.cpp)|[Java](https://github.com/harshuCodes-git/Hiten-Codes-Solution/blob/main/01_Array/03_TwoSum.java)|
