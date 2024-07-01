@@ -24,7 +24,7 @@ Here is an example table showing the status of different solutions:
 | Array| Contains Duplicate| [Link](https://leetcode.com/problems/contains-duplicate/)|[01](https://github.com/harshuCodes-git/Hiten-Codes-Solution/blob/main/Array_01/01_Contains%20Duplicate.cpp)|
 | | Valid Anagram| [Link](https://leetcode.com/problems/valid-anagram/)|[02](https://github.com/harshuCodes-git/Hiten-Codes-Solution/blob/main/01_Array/02_Valid%20Anagram.cpp)|
 |Binary Search|Binary Search|[Link](https://leetcode.com/problems/binary-search/)|[01](https://github.com/harshuCodes-git/Hiten-Codes-Solution/blob/main/02_Binary%20Search/01_Binary%20Search.cpp)|
-|||||
+||Search a 2D Matrix|[Link](https://leetcode.com/problems/search-a-2d-matrix/)|[02](https://github.com/harshuCodes-git/Hiten-Codes-Solution/blob/main/02_Binary%20Search/02_Search%20a%202D%20Matrix.cpp)|
 
 ## Repository Structure
 
